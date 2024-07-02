@@ -1,3 +1,4 @@
+![Collection hierarchy](./1.jpg)
 ### 1. Collection in Java
 - The Collection interface is the root of the collection hierarchy. It defines operations that are common to all collections.
 
